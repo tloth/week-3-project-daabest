@@ -81,7 +81,7 @@ We tried TDD and running the tests with tape. We wrote our tests first and then 
 
 ## 🔓Accessibility:
 ![accessibility?](https://media1.giphy.com/media/3o6nV81ZGxMlcGG5R6/giphy.gif?cid=3640f6095c93c2a3716a457277ed2040)
-- Quite a simple website - 45% accessibility at first --> needed to add labels and alt text for img's --> HOW when we don't know what gif are being searched for
+- Quite a simple website - 45% accessibility at first --> needed to add labels and alt text for img's --> HOW when we don't know what gifs are being searched for
 - Added aria-label to input field --> 76%, can we do anything with the img's?
 
 ## 🚨Problems & what we've learned:
@@ -89,7 +89,7 @@ We tried TDD and running the tests with tape. We wrote our tests first and then 
 - Jinxing the project at the very beginning ("This shouldn't be that hard!")
 - Finding a good API is not easy, initial APIs required too much authentication (Oxford Dictionary and Pexels)
 - testing 
-#### The tiny things
+#### The little things
 ![fake smile](https://media3.giphy.com/media/SQjFdc1dWQn4c/giphy.gif?cid=3640f6095c93c068384a44694553d25c)
 - IIFE
 - The order in which you call scripts in the index.html matters
